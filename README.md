@@ -36,6 +36,11 @@ Worlds save automatically to your browser (autosave occurs every minute, on paus
 - **Mobs & AI**: Pigs, cows, sheep, chickens, zombies, skeletons (with archery AI), creepers (with explosion mechanics), and spiders. Complete with natural day/night spawning, daylight burning, item drops, and XP orbs.
 - **Audio Engine**: Synthesized sound effects (material digging/steps, UI interaction, damage, eating, mobs, explosions) and generative procedural ambient music.
 
+## Screenshots
+<img width="1903" height="907" alt="image" src="https://github.com/user-attachments/assets/7d9a73e9-3732-452c-9eb9-e01a8cb4c773" />
+<img width="1600" height="760" alt="WhatsApp Image 2026-09-25 at 7 20 33 PM" src="https://github.com/user-attachments/assets/0fbfe3af-01b1-4bd4-80a9-5ff4725ca8fb" />
+
+Those are just some of the things in the game. I'm too lazy to take more screenshots.
 ---
 
 *This project was created exclusively for a **Final Project** by Kelompok 8bit. Non-commercial and intended strictly for academic purposes.*
